@@ -1,5 +1,0 @@
-Wheat,5,7
-Corn,8,10
-Tomato,12,14
-Potato,6,8
-Carrot,4,5
